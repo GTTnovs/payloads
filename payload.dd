@@ -1,0 +1,8 @@
+delay 1000
+windows R
+delay 500
+string powershell "cmd"
+delay 100
+enter
+delay 500
+string powershell "shutdown -i" 
